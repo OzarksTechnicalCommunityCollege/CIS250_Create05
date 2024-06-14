@@ -1,1 +1,1 @@
-There is no example output file for this week. The first 5 rows of the correct solutions are embedded in your starter file.
+There is no example output file for this week. We are doing database operations that will not produce an observable result, for the most part.
